@@ -4,7 +4,7 @@
 Установка
 
 1. Установите и настройте Python 3
-2. Клонируйте репозиторий командой git@github.com:original18/rirparse.git
+2. Клонируйте репозиторий командой git clone git@github.com:original18/rirparse.git
 3. Из корневой директории проекта установите виртуальное окружение командой python -m venv venv
 4. Установите зависимости командой pip install -r requirements.txt
 5. Создайте файл .env с переменными:
